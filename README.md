@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcfb3&height=160&section=header&text=Hi,%20I'm%20somin!&fontSize=32&fontAlignY=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=80&section=header&text=&fontSize=32&fontAlignY=36&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6994CDEE&width=1000&height=100&lines=Welcome+to+Somin's+GitHub)](https://git.io/typing-svg)
 
 안녕하세요👋🏻 프론트엔드 개발자를 꿈꾸는 오소민입니다!🙂
 
